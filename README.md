@@ -24,7 +24,7 @@ Este repositório contém as rotinas de código utilizadas para a análise das c
 
 1. Clone o repositório:
 ```
-git 
+git https://github.com/Falx777/EXAME_2_MONETARIA.git
 ```
 2. Execute o script desejado:
 ```
